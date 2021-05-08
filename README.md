@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on freelance
 
 - 🌱 I’m currently learning Java, Javascript and  React  
 
