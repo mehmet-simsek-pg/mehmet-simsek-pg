@@ -5,7 +5,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mehmetsimsek27.mehmetsimsek27)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mehmet-simsek-pg.mehmet-simsek-pg)
 
 </p>
 <div size='20px'> Hi! My name is Mehmet. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -41,8 +41,8 @@
 <a href="https://github.com/mehmetsimsek27?tab=repositories">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mehmetsimsek27&count_private=true&show_icons=true&theme=default" />
 </a>
-<a href="https://github.com/mehmetsimsek27?tab=repositories">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetsimsek27&theme=default" />
+<a href="https://github.com/mehmet-simsek-pg?tab=repositories">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet-simsek-pg&theme=default" />
 </a>
 
 
